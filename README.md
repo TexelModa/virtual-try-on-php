@@ -13,19 +13,13 @@ Before you begin, make sure you have the following prerequisites:
 1. Clone this repository to your local machine:
 
 ```
-git clone https://github.com/john-eighteenth/clothes-tryon-js.git
+git clone https://github.com/TexelModa/virtual-try-on-php.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd clothes-tryon-js
-```
-
-3. Install any necessary dependencies:
-
-```
-yarn install
+cd virtual-try-on-php
 ```
 
 ## Usage
