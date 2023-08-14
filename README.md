@@ -33,7 +33,7 @@ cd virtual-try-on-php
 4. Run the virtual dressing room script:
 
 ```
-Run the PHP script in your preferred web server environment.
+php src/index.php
 ```
 
 5. The script will generate an output image (`result.jpg`) showing the avatar wearing the chosen clothing item.
